@@ -113,7 +113,7 @@
     "@commitlint/cli": "^16.2.1",
     "@commitlint/config-conventional": "^16.2.1",
     "@jest/globals": "=27.0.6",
-    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.4",
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.16",
     "@release-it/conventional-changelog": "=3.0.1",
     "@wojtekmaj/enzyme-adapter-react-17": "=0.6.6",
     "autoprefixer": "^10.4.0",
@@ -181,7 +181,7 @@
     "webpack": "^5.76.0",
     "webpack-bundle-size-analyzer": "^3.1.0",
     "webpack-cli": "^5.0.1",
-    "webpack-dev-server": "^4.7.4",
+    "webpack-dev-server": "^5.2.2",
     "webpack-node-externals": "=3.0.0",
     "webpack-stats-plugin": "=1.0.3"
   },
