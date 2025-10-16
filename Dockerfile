@@ -3,7 +3,7 @@
 # https://github.com/swagger-api/swagger-ui/blob/master/docs/usage/configuration.md
 
 
-FROM nginx:1.28.0-alpine
+FROM nginx:1.29.2-alpine
 
 
 RUN apk update && apk add --no-cache "nodejs>=14.17.6-r0"
